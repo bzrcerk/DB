@@ -1,0 +1,1 @@
+drop database lab2_db
