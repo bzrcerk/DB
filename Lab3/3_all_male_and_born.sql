@@ -1,0 +1,1 @@
+select * from passengers where gender = 'male' or gender = 'Male' and (date_of_birth between '1990-01-01' and '2000-12-31')

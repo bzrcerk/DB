@@ -4,11 +4,30 @@
     <file url="file://$PROJECT_DIR$/create_references_renaming.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/creating_database.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/creating_tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/defepnce.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/deletion_of_data.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/dropping_database.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/help.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/inserting_data_main.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/inserting_data_task.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/updating_data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/10_youngest.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/11_cheapest_on_each.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/12_has_degit.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/13_rec.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/14_spc_check.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/15_bags_check_spc.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/1_same_last_first_names.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/2_all_names_nd.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/3_all_male_and_born.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/4_find_tickets.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/5_to_China.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/6_multy_cnt_and_created.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/7_arln_Kazakhstan.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/8_reduce_price.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/9_top3_bags.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/creating_and_inserting.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/creating_database.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab3/drop_database.sql" dialect="PostgreSQL" />
   </component>
 </project>

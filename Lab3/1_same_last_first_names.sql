@@ -1,0 +1,1 @@
+select * from passengers where last_name = first_name

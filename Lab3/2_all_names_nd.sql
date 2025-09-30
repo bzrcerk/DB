@@ -1,0 +1,1 @@
+select distinct last_name from passengers
