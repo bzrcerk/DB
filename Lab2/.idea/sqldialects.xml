@@ -30,5 +30,16 @@
     <file url="file://$PROJECT_DIR$/../Lab3/creating_database.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../Lab3/defence.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/../Lab3/drop_database.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/10.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/age.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/air_and_reginal.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/air_to_aero.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/both_airlines.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/cnt.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/delayed_flights.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/names_date.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/price_cat.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/test.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../Lab4/uppecase_airlines.sql" dialect="PostgreSQL" />
   </component>
 </project>
