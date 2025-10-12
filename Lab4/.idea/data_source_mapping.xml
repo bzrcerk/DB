@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/air_and_reginal.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/defence.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/defence2.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/names_date.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/accept_booking_price.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/at_least_10yo.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/bag_check.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/cit_rules.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/males_age.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/name_len.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/ticket_dis.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+    <file url="file://$PROJECT_DIR$/../Lab5/unique_cons.sql" value="d74e3ce4-a104-43d0-97d6-ec93ba6e127a" />
+  </component>
+</project>
